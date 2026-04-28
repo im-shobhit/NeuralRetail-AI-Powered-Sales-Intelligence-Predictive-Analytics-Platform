@@ -42,7 +42,8 @@ This project is built using a decoupled microservice architecture, separating th
 
 **1. Clone the repository and install dependencies:**
 ```bash
-git clone [https://github.com/yourusername/NeuralRetail.git](https://github.com/yourusername/NeuralRetail.git)
+git clone https://github.com/im-shobhit/NeuralRetail.git
+(https://github.com/im-shobhit/NeuralRetail.git)
 cd NeuralRetail
 python -m venv venv
 source venv/bin/activate  # On Windows use: .\venv\Scripts\activate
